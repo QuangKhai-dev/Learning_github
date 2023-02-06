@@ -1,3 +1,7 @@
 .branch {
-  display: none;
+  display: inline;
+}
+
+.hehe {
+  color: blue;
 }
